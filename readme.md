@@ -160,3 +160,7 @@ Announcements are logged as they are queued:
 [14:31:12] Announcement: Uwaga. Pociąg spółki IC 5424 do stacji Racibórz. Odjedzie z toru 11, przy peronie IV.
 [14:31:12] Delay: Informacja o opóźnieniu. Pociąg IC 55 do stacji Kraków Główny jest opóźniony o 35 minut.
 ```
+
+## Authors
+
+matpl11, Bartlomiej Malarz and others specified in the Git repository. All rights reserved according to the license.
